@@ -30,7 +30,7 @@
     "request": "^2.88.0",
     "sharp": "^0.22.1",
     "uuid": "^3.3.2",
-    "validator": "^11.1.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "eslint": "^6.1.0",
